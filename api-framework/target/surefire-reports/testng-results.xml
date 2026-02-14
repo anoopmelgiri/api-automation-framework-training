@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-02-14T18:25:20 UTC" name="API Automation Suite" finished-at="2026-02-14T18:25:23 UTC" duration-ms="3291">
+    <groups>
+    </groups>
+    <test started-at="2026-02-14T18:25:20 UTC" name="Sample API Test" finished-at="2026-02-14T18:25:23 UTC" duration-ms="3291">
+      <class name="com.automation.tests.CreatePostTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.automation.tests.CreatePostTest@ec756bd]" started-at="2026-02-14T18:25:20 UTC" name="setup" finished-at="2026-02-14T18:25:21 UTC" duration-ms="410" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyCreatePostAPI()[pri:0, instance:com.automation.tests.CreatePostTest@ec756bd]" started-at="2026-02-14T18:25:21 UTC" name="verifyCreatePostAPI" finished-at="2026-02-14T18:25:23 UTC" duration-ms="2645" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCreatePostAPI -->
+      </class> <!-- com.automation.tests.CreatePostTest -->
+      <class name="com.automation.tests.GetPostsTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.automation.tests.GetPostsTest@769e7ee8]" started-at="2026-02-14T18:25:20 UTC" name="setup" finished-at="2026-02-14T18:25:21 UTC" duration-ms="411" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.automation.tests.GetPostsTest@769e7ee8]" started-at="2026-02-14T18:25:20 UTC" name="setup" finished-at="2026-02-14T18:25:21 UTC" duration-ms="409" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyGetPostsAPI_2()[pri:0, instance:com.automation.tests.GetPostsTest@769e7ee8]" started-at="2026-02-14T18:25:21 UTC" name="verifyGetPostsAPI_2" finished-at="2026-02-14T18:25:23 UTC" duration-ms="2719" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyGetPostsAPI_2 -->
+        <test-method signature="verifyGetPostsAPI_1()[pri:0, instance:com.automation.tests.GetPostsTest@769e7ee8]" started-at="2026-02-14T18:25:21 UTC" name="verifyGetPostsAPI_1" finished-at="2026-02-14T18:25:23 UTC" duration-ms="2719" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyGetPostsAPI_1 -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.automation.tests.GetPostsTest@769e7ee8]" started-at="2026-02-14T18:25:23 UTC" name="setup" finished-at="2026-02-14T18:25:23 UTC" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyGetPostsAPI_3()[pri:0, instance:com.automation.tests.GetPostsTest@769e7ee8]" started-at="2026-02-14T18:25:23 UTC" name="verifyGetPostsAPI_3" finished-at="2026-02-14T18:25:23 UTC" duration-ms="165" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyGetPostsAPI_3 -->
+      </class> <!-- com.automation.tests.GetPostsTest -->
+    </test> <!-- Sample API Test -->
+  </suite> <!-- API Automation Suite -->
+</testng-results>

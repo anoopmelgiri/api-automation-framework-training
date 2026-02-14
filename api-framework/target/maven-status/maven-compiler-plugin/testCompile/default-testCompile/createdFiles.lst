@@ -1,0 +1,10 @@
+com/automation/tests/CreatePostTest.class
+com/automation/tests/GetPostsTest.class
+com/automation/utils/ConfigReader.class
+com/automation/utils/ApiExecutor.class
+com/automation/base/BaseTest.class
+com/automation/services/AuthService.class
+com/automation/utils/TokenManager.class
+com/automation/utils/JsonReader.class
+com/automation/services/PostsService.class
+com/automation/utils/RetryExecutor.class

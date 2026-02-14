@@ -1,0 +1,10 @@
+/workspaces/api-automation-framework-training/api-framework/src/test/java/com/automation/base/BaseTest.java
+/workspaces/api-automation-framework-training/api-framework/src/test/java/com/automation/services/AuthService.java
+/workspaces/api-automation-framework-training/api-framework/src/test/java/com/automation/services/PostsService.java
+/workspaces/api-automation-framework-training/api-framework/src/test/java/com/automation/tests/CreatePostTest.java
+/workspaces/api-automation-framework-training/api-framework/src/test/java/com/automation/tests/GetPostsTest.java
+/workspaces/api-automation-framework-training/api-framework/src/test/java/com/automation/utils/ApiExecutor.java
+/workspaces/api-automation-framework-training/api-framework/src/test/java/com/automation/utils/ConfigReader.java
+/workspaces/api-automation-framework-training/api-framework/src/test/java/com/automation/utils/JsonReader.java
+/workspaces/api-automation-framework-training/api-framework/src/test/java/com/automation/utils/RetryExecutor.java
+/workspaces/api-automation-framework-training/api-framework/src/test/java/com/automation/utils/TokenManager.java
